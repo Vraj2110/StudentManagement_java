@@ -53,7 +53,7 @@ public class College {
         }
     }
 
-    public void printTeachers(){
+    public void printAllTeachers(){
         System.out.println("\n═══════════════════════════════════════");
         System.out.println("ALL TEACHER" + collegename);
         System.out.println(" ═══════════════════════════════════════  ");
